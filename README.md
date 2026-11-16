@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi, I'm Vasileios 👋
 
-<!--
-**VarveroglouVasileios/VarveroglouVasileios** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Full Stack Developer** at FactSet · **MSc Cybersecurity** student · Based in Kavala, Greece 🇬🇷
 
-Here are some ideas to get you started:
+I build web applications end to end, and I'm increasingly focused on security and AI-assisted tooling.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech stack
+
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![Nuxt](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=00DC82)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+## 🚀 What I'm working on
+
+- 🎓 **Master's thesis**: a neuro-symbolic AI system for penetration testing guidance and vulnerability knowledge management ([graphrag-pentest](https://github.com/VarveroglouVasileios/graphrag-pentest))
+- 🔐 Growing my hands-on web security skills and working towards a web pentesting certification
+- 🔌 Experimenting with hardware and IoT (Raspberry Pi Pico, sensors)
+
+## 📌 Featured projects
+
+| Project | Description |
+| --- | --- |
+| [Portfolio](https://github.com/VarveroglouVasileios/VarveroglouVasileios.github.io) | Interactive 3D portfolio built with Vue 3, TypeScript and TresJS |
+| [VibeBites](https://github.com/VarveroglouVasileios/VibeBites) | AI-driven PWA for discovering, cooking and sharing recipes (Nuxt 3, TypeScript, Tailwind CSS) |
+| [graphrag-pentest](https://github.com/VarveroglouVasileios/graphrag-pentest) | GraphRAG-based assistant for penetration testing knowledge (Python) |
+
+## 🌱 Interests
+
+Cybersecurity · Penetration testing · Semantic Web (ontologies, knowledge graphs) · Applied AI · IoT
+
+## 📫 Let's connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vasileios-varveroglou-769b52249/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white)](https://varveroglouvasileios.github.io)
